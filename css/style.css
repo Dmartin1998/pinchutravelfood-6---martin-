@@ -1,0 +1,40 @@
+.navbar-brand img {
+    width: 100px;
+    padding: 1em;
+}
+
+.nav-link {
+    font-size: 2em;
+}
+
+.nav-link:hover {
+    color: #198754;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card a {
+    background-color: #198754;
+    border: #198754;
+}
+
+.was-validated {
+    margin: 2em;
+}
+
+.form-label {
+    font-size: 3em;
+}
+
+.card {
+    transition: .5s;
+}
+
+.card:hover {
+    scale: 1.1;
+    -webkit-box-shadow: 6px 9px 25px -11px rgba(19,133,23,1);
+    -moz-box-shadow: 6px 9px 25px -11px rgba(19,133,23,1);
+    box-shadow: 6px 9px 25px -11px rgba(19,133,23,1);
+}
